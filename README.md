@@ -17,7 +17,7 @@ Tasks can be organized base on the addition order of tasks.
   The application is designed to be responsive, ensuring it works seamlessly across different devices and screen sizes.
 
 3.User Interface and Experience:
-  The application is ver simple to use, and design elements are making the interface visually appealing and intuitive.
+  The application is easy to use, and design elements are making the interface visually appealing and intuitive.
 
 4.Technologies Used:
 
