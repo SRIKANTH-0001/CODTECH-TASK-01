@@ -28,3 +28,4 @@ CSS: For styling and designing the user interface, including animations and effe
 JavaScript: For implementing dynamic functionality, such as adding, editing, deleting tasks, and enhancing user interaction with the application.
 
 SAMPLE PIC OF THE  OUTCOME:-
+![sampleimage](https://github.com/user-attachments/assets/3856c32f-a9ba-4c64-85bf-f7c7f3c0f46a)
