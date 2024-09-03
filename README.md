@@ -5,7 +5,7 @@ NAME: SRIKANTH K COMPANY: CODTECH IT SOLUTIONS PVT.LTD ID: CT08DS7676 DOMAIN: We
 Project Name: To-Do List Web Application
 
 Objective:
-The primary objective of the To-Do List Web Application is to create a user-friendly and efficient tool that allows users to manage their daily tasks effectively. The application is designed to enhance productivity by providing users with an easy-to-use interface for adding, organizing, and tracking tasks. It also includes an integrated user guide to assist users in navigating the application.
+The primary objective of the To-Do List Web Application is to create a user-friendly and efficient tool that allows users to manage their daily tasks effectively. The application is designed to enhance productivity by providing users with an easy-to-use interface for adding, organizing, and tracking tasks. 
 
 Key Activities:
 
