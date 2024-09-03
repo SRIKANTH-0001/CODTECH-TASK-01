@@ -1,0 +1,88 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+body{
+    background-image: url(images.jfif);
+
+}
+.Todo-Container{
+    width: 400px;
+    padding: 40px;
+    background-color: rgb(214, 192, 141);
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-bottom: 30%; 
+    margin-left: 35%; 
+}
+h1{
+    color: rgb(138, 32, 32);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: Arial;
+    margin-bottom: 15px;
+    background-color:rgb(214, 155, 77);
+    border-radius: 15px;
+    width: 250px;
+    margin-left: 30px;
+    padding: 10px;
+    box-shadow: 9px 7px 5px rgba(224, 106, 10, 0.048);
+
+ 
+}
+input{
+    width: 300px;
+    padding: 8px;
+    border: 2px solid rgb(31, 21, 18);
+    outline: none;
+    font-size: 1.2em;
+    border-radius: 7px;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    box-shadow: 4px 3px 5px rgba(0, 0, 0, 0.884);
+}
+button{
+    width: 70px;
+    height: 41px;
+    border-radius: 5px;
+    background-color: rgb(22, 201, 16);
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-left: 40%;
+  
+}
+.inputs button:hover{
+    background-color: rgb(218, 14, 7);
+}
+.text ul{
+    position: relative;
+    background-color: rgba(218, 134, 8, 0.952);
+    color: rgb(12, 12, 8);
+    font-size: 20px;
+    font-style: Roboto;
+    text-align: left;
+    padding: 6px;
+    list-style:armenian;
+    border-radius: 7px;
+    width: 300px;
+    height: 40px;
+    border: 2px solid rgb(9, 8, 8);
+    margin-top: 10px; 
+    margin-left: 10px;
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    color: rgb(61, 11, 243);
+}
